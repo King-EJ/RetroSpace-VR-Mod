@@ -77,21 +77,23 @@ LASER / BULLET POINT:   hold Y for 1.2 s (weapon in hand):
                           
 WEAPON PLACEMENT:       hold both stick clicks for 2 s (left grip = grab & move, right stick = size, A = save).
 
-HAND ADJUST:            
-hold Y + right stick click for 1.5 s.
+HAND ADJUST:           Hold Y + right stick click for 1.5 s.
 
 MINIMAP POSITION:       
 [UI] MapOffset = "x,y,z" from the left controller (x = right, negative = left; y = up; z = forward),
                       
 MapScale = size (also in the in-game settings menu), MapOwnSpot = false puts it back in the stack.
                         
-LEFT-HAND HUD:          in-game settings menu -> "HUD on left hand" / "Left-hand HUD size".
+LEFT-HAND HUD:          
+in-game settings menu -> "HUD on left hand" / "Left-hand HUD size".
 
-USING THINGS:           [Weapons] InteractAim = Hand (point with the right hand) or Head (look at it).
+USING THINGS:           
+[Weapons] InteractAim = Hand (point with the right hand) or Head (look at it).
 
-                        [UI] UsePromptOnHand / UsePromptScale / UsePromptOffset = the prompt above the controller.
+[UI] UsePromptOnHand / UsePromptScale / UsePromptOffset = the prompt above the controller.
 
-
+CREDITS & LICENCES
+------------------
 [RetroSpace](<https://store.steampowered.com/app/2067820/RetroSpace/>) belongs to its developers The Wild Gentlemen. This is a free, fan-made, non-commercial mod.
 OpenXR.dll (native OpenXR bridge) by Astien (c) 2025 - free, non-commercial redistribution, see BepInEx\plugins\TTVR\LICENSES.
 
