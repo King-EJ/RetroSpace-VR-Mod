@@ -65,6 +65,8 @@ In menus the right stick is the d-pad.
 
 Everything is in BepInEx\config\retrospace.vr.cfg ([Controls] = gamepad buttons, [KeyControls] = keys).
 
+![Quest 3 controller layout](https://raw.githubusercontent.com/King-EJ/RetroSpace-VR-Mod/96b3dbb5ca987ec58c1f380759a6794080bd41eb/223.jpg)
+
 MENUS:                  point your right hand at the screen (blue laser) and pull the trigger.
 
 IN-GAME SETTINGS MENU:  hold Y + left stick click for 1.7 s.
